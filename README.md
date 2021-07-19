@@ -1,2 +1,2 @@
 # Statistical-Learning-II
-Statistical Learning II, Galileo University
+*Galileo University
